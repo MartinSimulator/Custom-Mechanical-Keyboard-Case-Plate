@@ -1,2 +1,2 @@
 # Custom-Mechanical-Keyboard-Case-Plate
-This is the case and plate of a custom mechanical keyboard I designed using Fusion360. 
+This keyboard is a 60% WKL design inspiried by the Bakeneko box-on-wedge design. 
