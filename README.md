@@ -1,2 +1,15 @@
 # Custom-Mechanical-Keyboard-Case-Plate
-This keyboard is a 60% WKL design inspiried by the Bakeneko box-on-wedge design. 
+This is a 60% WKL keyboard inspiried by the Bakeneko box-on-wedge design. 
+
+![60% WKL](./images/img_4.jpg)
+
+### Specifications:
+- Two Piece Case + External Weight with Engraving
+- Gasket Mount Design
+- Unified Daughterboard
+- Case and Plate only
+
+### Notes:
+- Only PCB mounted stabilizers supported (no plate mount)
+- Big thank you to Zlane for advice on keyboard design & manufacturing
+- Use these files at your own risk
