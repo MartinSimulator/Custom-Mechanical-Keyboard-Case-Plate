@@ -1,5 +1,5 @@
 # Custom-Mechanical-Keyboard-Case-Plate
-This is a 60% WKL keyboard inspiried by the Bakeneko box-on-wedge design. 
+This is an original 60% WKL keyboard case inspiried by the Bakeneko box-on-wedge design. 
 
 ![60% WKL](./images/img_4.jpg)
 
