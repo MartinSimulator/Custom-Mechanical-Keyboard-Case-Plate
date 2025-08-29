@@ -11,5 +11,6 @@ This is a 60% WKL keyboard inspiried by the Bakeneko box-on-wedge design.
 
 ### Notes:
 - Only PCB mounted stabilizers supported (no plate mount)
+- Plate was created with the ai03 Plate Generator and modified in Fusion360
 - Big thank you to Zlane for advice on keyboard design & manufacturing
 - Use these files at your own risk
