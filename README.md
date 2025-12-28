@@ -13,4 +13,5 @@ This is an original 60% WKL keyboard case inspiried by the Bakeneko box-on-wedge
 - Only PCB mounted stabilizers supported (no plate mount)
 - Plate was created with the ai03 Plate Generator and modified in Fusion360
 - Big thank you to Zlane for advice on keyboard design & manufacturing
+- Not sure why but in the renders the engraving on the external weight is not visible
 - Use these files at your own risk
